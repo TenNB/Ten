@@ -1,0 +1,11 @@
+/*.btn-danger {
+	background-color: rgb(100 150 200);
+	border-color:rgb(100 150 200); 
+}
+.btn-danger:hover{
+	background-color: rgb(200 150 0);
+}*/
+.col {
+	background-color: linen;
+	border: 2px solid black;
+}
